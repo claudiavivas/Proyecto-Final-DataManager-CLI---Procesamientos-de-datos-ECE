@@ -1,4 +1,4 @@
-# DataManager-CLI---Procesamientos-de-datos-ECE
+# DataManager-CLI: Procesamientos de datos ECE
 
 Integrantes:
 *
